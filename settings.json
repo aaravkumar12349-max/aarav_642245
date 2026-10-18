@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "warzonefalls.aternos.me",
+    "port": 35213,
     "version": "1.20.1",
     "try-creative": false
   },
